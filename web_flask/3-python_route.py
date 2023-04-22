@@ -1,10 +1,4 @@
 #!/usr/bin/python3
-"""
-file: 3-python_route.py
-desc: This module runs a simple flask app.
-Author: Gizachew Bayness (Elec Crazy)
-Date Created: Nov 10, 2022
-"""
 from flask import Flask
 
 app = Flask(__name__)

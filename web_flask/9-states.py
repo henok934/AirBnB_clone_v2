@@ -1,10 +1,4 @@
 #!/usr/bin/python3
-"""
-file: 9-states.py
-Desc: This python module executes simple flask application.
-Author: Gizachew Bayness (Elec Crazy)
-Date Created: Nov 13, 2022
-"""
 from models import storage
 from flask import Flask, render_template
 app = Flask(__name__)

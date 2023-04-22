@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 """
 file: 0-hello_route.py
-desc: This module runs a simple flask app.
-Author: Gizachew Bayness (Elec Crazy)
-Date Created: Nov 10, 2022
+desc: This module runs a simple flask ap
 """
 from flask import Flask
 

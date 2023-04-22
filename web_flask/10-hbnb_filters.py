@@ -1,11 +1,4 @@
 #!/usr/bin/python3
-"""
-file: 10-hbnb_filters.html
-Desc: This python module executes simple flask application over the AirBnB site
-      written for the ALX higher level programming track.
-Author: Gizachew Bayness (Elec Crazy)
-Date Created: Nov 13, 2022
-"""
 from models import storage
 from flask import Flask, render_template
 app = Flask(__name__)

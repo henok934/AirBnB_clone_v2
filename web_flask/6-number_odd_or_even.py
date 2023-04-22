@@ -1,10 +1,4 @@
 #!/usr/bin/python3
-"""
-file: 5-number_template.py
-desc: This module runs a simple flask app.
-Author: Gizachew Bayness (Elec Crazy)
-Date Created: Nov 11, 2022
-"""
 from flask import Flask, render_template
 
 app = Flask(__name__)
